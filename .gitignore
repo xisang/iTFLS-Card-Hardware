@@ -1,7 +1,8 @@
 /*
-/PCB/History/
-/PCB/__Previews/
 !.gitignore
-!/PCB/
 !/iTFLS-Card.DsnWrk
 !/README.md
+!/PCB/
+/PCB/History/
+/PCB/__Previews/
+/PCB/Project Logs for MainBoard/
